@@ -1,2 +1,2 @@
 # VisualGameProj
- Code for Visual Programming puzzle game final
+ Code for Visual Programming final prject
