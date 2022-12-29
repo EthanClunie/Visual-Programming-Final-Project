@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: d8e5bb7f87907b1448f344297f78e21a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6719442780651062999
+    second: BlueTree_1
+  - first:
+      213: 865004270383329237
+    second: BlueTree_2
+  - first:
+      213: 8892362045038828657
+    second: BlueTree_3
+  - first:
+      213: 4523329861158726629
+    second: BlueTree_4
+  - first:
+      213: -7965756564722664177
+    second: 1
+  - first:
+      213: -8573958473211629845
+    second: BlueBranch_2
+  - first:
+      213: 7919644192809346830
+    second: BlueBranch_3
+  - first:
+      213: 8041232630493831323
+    second: BlueBranch_4
+  - first:
+      213: 4836137552727498863
+    second: BlueBranch_5
+  - first:
+      213: -7967477828790966400
+    second: BlueBranch_6
+  - first:
+      213: -7495107513826756206
+    second: BlueBranch_7
+  - first:
+      213: -5573716262134239135
+    second: BlueBranch_8
+  - first:
+      213: 1175890573258600222
+    second: BlueBranch_9
+  - first:
+      213: 6404335758639983537
+    second: BlueBranch_10
+  - first:
+      213: 111460103596227837
+    second: Blue_Vines_1
+  - first:
+      213: 8161651127141850356
+    second: Blue_Vines_2
+  - first:
+      213: -8281054815979909501
+    second: Blue_Vines_3
+  - first:
+      213: 335864448850275054
+    second: Blue_Vines_4
+  - first:
+      213: -707445994297824303
+    second: Blue_Vines_5
+  - first:
+      213: 5563761239448842012
+    second: Blue_Vines_6
+  - first:
+      213: 1253098210977054140
+    second: Blue_Vines_7
+  - first:
+      213: -5770143819304722537
+    second: Blue_Vines_8
+  - first:
+      213: 933629590214483594
+    second: Blue_Vines_9
+  - first:
+      213: 8204895798697666532
+    second: Blue_Vines_10
+  - first:
+      213: -7065138995505177163
+    second: Blue_Vines_11
+  - first:
+      213: -4243546929494452561
+    second: Blue_Vines_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueTree_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 422
+        width: 122
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929fab2646ebfb2a0800000000000000
+      internalID: -6719442780651062999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTree_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 424
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe4690dcc110c00800000000000000
+      internalID: 865004270383329237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTree_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 423
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c94bc8a24086b70800000000000000
+      internalID: 8892362045038828657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTree_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 425
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb68480b8816ce30800000000000000
+      internalID: 4523329861158726629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3878db92f37190800000000000000
+      internalID: -7965756564722664177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 367
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2545023e230980800000000000000
+      internalID: -8573958473211629845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 336
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e2ebee6a38ed60800000000000000
+      internalID: 7919644192809346830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 334
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b906dd02972389f60800000000000000
+      internalID: 8041232630493831323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 372
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ef333b796d1340800000000000000
+      internalID: 4836137552727498863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 346
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0872d13d025dd6190800000000000000
+      internalID: -7967477828790966400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299befc4d670cf790800000000000000
+      internalID: -7495107513826756206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bba4279e26a2b0800000000000000
+      internalID: -5573716262134239135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 292
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2fc90f3a915010800000000000000
+      internalID: 1175890573258600222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBranch_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 293
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb611cd075c0e850800000000000000
+      internalID: 6404335758639983537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 222
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc3b79af5cfb8100800000000000000
+      internalID: 111460103596227837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 203
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd4f53572044170800000000000000
+      internalID: 8161651127141850356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 178
+        width: 136
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ecaff0588c31d80800000000000000
+      internalID: -8281054815979909501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 179
+        width: 178
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea276ecfea39a400800000000000000
+      internalID: 335864448850275054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbea1ccd95ae26f0800000000000000
+      internalID: -707445994297824303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 107
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f6f648e53763d40800000000000000
+      internalID: 5563761239448842012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf6f50f26e36110800000000000000
+      internalID: 1253098210977054140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 40
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1d6394c45cefa0800000000000000
+      internalID: -5770143819304722537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 109
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e178c6a2be4fc00800000000000000
+      internalID: 933629590214483594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 98
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7287ce145add170800000000000000
+      internalID: 8204895798697666532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 34
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd572c248593fd90800000000000000
+      internalID: -7065138995505177163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Vines_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 36
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa698c70d84eb15c0800000000000000
+      internalID: -4243546929494452561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4789de8c6b59fc240a0b41d87fe20f09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: a59be66effb872249a53111ce9328bc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1035104852675971328
+    second: Crow Sprite Sheet 17x21 RED_0
+  - first:
+      213: -1343160966794324102
+    second: Crow Sprite Sheet 17x21 RED_1
+  - first:
+      213: 8433723952216902998
+    second: Crow Sprite Sheet 17x21 RED_2
+  - first:
+      213: -2895717824006736703
+    second: Crow Sprite Sheet 17x21 RED_3
+  - first:
+      213: -2617113830959915365
+    second: Crow Sprite Sheet 17x21 RED_4
+  - first:
+      213: -8574913066567707751
+    second: Crow Sprite Sheet 17x21 RED_5
+  - first:
+      213: -9053388445225930986
+    second: Crow Sprite Sheet 17x21 RED_6
+  - first:
+      213: 5459920347579268886
+    second: Crow Sprite Sheet 17x21 RED_7
+  - first:
+      213: -493572922544400400
+    second: Crow Sprite Sheet 17x21 RED_8
+  - first:
+      213: -2756104387653094782
+    second: Crow Sprite Sheet 17x21 RED_9
+  - first:
+      213: -855047534638929278
+    second: Crow Sprite Sheet 17x21 RED_10
+  - first:
+      213: 7078212787118737648
+    second: Crow Sprite Sheet 17x21 RED_11
+  - first:
+      213: 5987350655392161171
+    second: Crow Sprite Sheet 17x21 RED_12
+  - first:
+      213: -319801155606855594
+    second: Crow Sprite Sheet 17x21 RED_13
+  - first:
+      213: -4813047616694412858
+    second: Crow Sprite Sheet 17x21 RED_14
+  - first:
+      213: 5090026146083495978
+    second: Crow Sprite Sheet 17x21 RED_15
+  - first:
+      213: -6411141488678833037
+    second: Crow Sprite Sheet 17x21 RED_16
+  - first:
+      213: 1161235172017231667
+    second: Crow Sprite Sheet 17x21 RED_17
+  - first:
+      213: -6966870368016981873
+    second: Crow Sprite Sheet 17x21 RED_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c809116e6d5e00800000000000000
+      internalID: 1035104852675971328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77dd0297322c5de0800000000000000
+      internalID: -1343160966794324102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d8791304b9a0570800000000000000
+      internalID: 8433723952216902998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4bf423bf750d7d0800000000000000
+      internalID: -2895717824006736703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5fd836d42eabd0800000000000000
+      internalID: -2617113830959915365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993506f6ff9cff880800000000000000
+      internalID: -8574913066567707751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61faeac0d27eb5280800000000000000
+      internalID: -9053388445225930986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb363d0a885cb40800000000000000
+      internalID: 5459920347579268886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75df0ca0a7629f0800000000000000
+      internalID: -493572922544400400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ba0279a950c9d0800000000000000
+      internalID: -2756104387653094782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 42
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae5c72cc24224f0800000000000000
+      internalID: -855047534638929278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f807d4270dda3260800000000000000
+      internalID: 7078212787118737648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1a50e2b7571350800000000000000
+      internalID: 5987350655392161171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504b491b86df8bf0800000000000000
+      internalID: -319801155606855594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c993e771be943db0800000000000000
+      internalID: -4813047616694412858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20e1cecfc763a640800000000000000
+      internalID: 5090026146083495978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3747782a8cc0707a0800000000000000
+      internalID: -6411141488678833037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 11
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d6c88c398d1010800000000000000
+      internalID: 1161235172017231667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Sprite Sheet 17x21 RED_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f802726ff44b05f90800000000000000
+      internalID: -6966870368016981873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3e5058cd313266043b609e770a0785fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

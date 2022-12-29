@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: f72fe2ed03ebdac4f818898aa82c959d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4748139031941590276
+    second: GreenTree_1
+  - first:
+      213: -8380024166232583042
+    second: GreenTree_2
+  - first:
+      213: -4527299812576785583
+    second: GreenTree_3
+  - first:
+      213: 4745927243946856987
+    second: GreenTree_4
+  - first:
+      213: -970481973117613973
+    second: GreenBranch_1
+  - first:
+      213: -4426744476452324476
+    second: GreenBranch_2
+  - first:
+      213: -3206411370746973329
+    second: GreenBranch_3
+  - first:
+      213: 2765666437628692321
+    second: GreenBranch_4
+  - first:
+      213: 2878971004776028777
+    second: GreenBranch_
+  - first:
+      213: 187322047347547
+    second: GreenBranch_6
+  - first:
+      213: 6096295550466478949
+    second: GreenBranch_7
+  - first:
+      213: -798933298132700047
+    second: GreenBranch_8
+  - first:
+      213: -1578377753768933044
+    second: GreenBranch_9
+  - first:
+      213: 562962747932720909
+    second: GreenBranch_10
+  - first:
+      213: 9174966778795699518
+    second: GreenVines_1
+  - first:
+      213: 952295958077321481
+    second: GreenVines_2
+  - first:
+      213: 2841716688127654536
+    second: GreenVines_3
+  - first:
+      213: -783543705927248426
+    second: GreenVines_4
+  - first:
+      213: 1993453480215954723
+    second: GreenVines_5
+  - first:
+      213: 1220339871646893636
+    second: GreenVines_6
+  - first:
+      213: -7426939733324056554
+    second: GreenVines_7
+  - first:
+      213: 5925554112864956214
+    second: GreenVines_8
+  - first:
+      213: -120881653097804402
+    second: GreenVines_9
+  - first:
+      213: 3166435334659472164
+    second: GreenVines_10
+  - first:
+      213: 5581441385673897556
+    second: GreenVines_11
+  - first:
+      213: -2385533114600015721
+    second: GreenVines_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenTree_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf254f805b83b1eb0800000000000000
+      internalID: -4748139031941590276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenTree_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 426
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74948a8b6c24bb80800000000000000
+      internalID: -8380024166232583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenTree_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 425
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b0baf9ecccb21c0800000000000000
+      internalID: -4527299812576785583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenTree_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 428
+        width: 117
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b121d41feabecd140800000000000000
+      internalID: 4745927243946856987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 349
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68876b89c72882f0800000000000000
+      internalID: -970481973117613973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 367
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bf2a14a5b0192c0800000000000000
+      internalID: -4426744476452324476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 334
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637adab8d98083d0800000000000000
+      internalID: -3206411370746973329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 332
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167041ec8fe916620800000000000000
+      internalID: 2765666437628692321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 373
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a135a10e824f720800000000000000
+      internalID: 2878971004776028777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 351
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b37105e5aa00000800000000000000
+      internalID: 187322047347547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 304
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563595be0846a9450800000000000000
+      internalID: 6096295550466478949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 294
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b195f56e99e4f0800000000000000
+      internalID: -798933298132700047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 293
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c494939abc9781ae0800000000000000
+      internalID: -1578377753768933044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBranch_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 295
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fbe44f2ab00d700800000000000000
+      internalID: 562962747932720909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 215
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da02c9ca7045f70800000000000000
+      internalID: 9174966778795699518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 177
+        width: 142
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9013d3ed02c373d00800000000000000
+      internalID: 952295958077321481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 198
+        width: 15
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af524954ecf6720800000000000000
+      internalID: 2841716688127654536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 182
+        width: 173
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5963e962b4025f0800000000000000
+      internalID: -783543705927248426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c984e06b2aab10800000000000000
+      internalID: 1993453480215954723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 104
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44642cac5a48fe010800000000000000
+      internalID: 1220339871646893636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6183cf289a53ee890800000000000000
+      internalID: -7426939733324056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 98
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fabaa121ccb3250800000000000000
+      internalID: 5925554112864956214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 40
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d4e37e6ca825ef0800000000000000
+      internalID: -120881653097804402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 32
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7f9e092071fb20800000000000000
+      internalID: 3166435334659472164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 37
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456b1c75e53457d40800000000000000
+      internalID: 5581441385673897556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenVines_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b5587542e4eed0800000000000000
+      internalID: -2385533114600015721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9df0eb0100874c419d12c75276d402f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
